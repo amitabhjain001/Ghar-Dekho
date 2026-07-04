@@ -1,0 +1,497 @@
+[
+    {
+        "id": 1,
+        "title": "Boho Loft in Cyber City",
+        "price": "₹2,00,000/mo",
+        "location": "Downtown, Neo-Tokyo",
+        "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80",
+        "description": "Immerse yourself in the vibrant energy of Cyber City with this stunning Boho Loft. Featuring high ceilings, exposed industrial elements, and a curated mix of vintage and modern decor, this space is a creative sanctuary. The smart home integration allows you to control lighting and ambiance with a voice command, while the neon accents add a futuristic touch. Perfect for the digital nomad seeking inspiration and connectivity.",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "sqft": 850,
+        "amenities": [
+            "Smart Home",
+            "High-speed Internet",
+            "Gym Access"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Minimalist Glass Villa",
+        "price": "₹9,50,00,000",
+        "location": "Hills, Los Angeles",
+        "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80",
+        "description": "Perched atop the Hollywood Hills, this Minimalist Glass Villa offers an unparalleled living experience. Floor-to-ceiling glass walls blur the lines between indoor and outdoor living, flooding the space with natural light and offering breathtaking panoramic views of the city below. The sleek, modern design features clean lines, premium materials, and an infinity pool that seems to drop off into the horizon. A true masterpiece of modern architecture.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "sqft": 3200,
+        "amenities": [
+            "Pool",
+            "Garage",
+            "Garden"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Eco-Friendly Pod",
+        "price": "₹65,000/mo",
+        "location": "Forest Edge, Portland",
+        "image": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=800&q=80",
+        "description": "Escape the hustle and bustle in this innovative Eco-Friendly Pod. Nestled on the edge of a lush forest, this compact home is a testament to sustainable living without sacrificing comfort. Powered entirely by solar energy and featuring a state-of-the-art rainwater harvesting system, it leaves a minimal carbon footprint. The interior is cozy and efficiently designed, making it the perfect retreat for nature lovers and eco-conscious individuals.",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "sqft": 400,
+        "amenities": [
+            "Solar Power",
+            "Rainwater Harvesting"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Urban Oasis Apartment",
+        "price": "₹2,50,000/mo",
+        "location": "Manhattan, NYC",
+        "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80",
+        "description": "Discover a sanctuary in the sky with this Urban Oasis Apartment located in the heart of Manhattan. This luxurious residence offers a respite from the city's frantic pace with its soundproof walls and serene interior design. Enjoy exclusive access to a private rooftop garden, a fully equipped gym, and 24/7 doorman service. Steps away from world-class dining, theater, and Central Park, this is city living at its finest.",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sqft": 1100,
+        "amenities": [
+            "Doorman",
+            "Rooftop Access",
+            "Gym"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Seaside Cottage",
+        "price": "₹3,75,00,000",
+        "location": "Brighton, UK",
+        "image": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=800&q=80",
+        "description": "Wake up to the sound of crashing waves in this charming Seaside Cottage. Located just steps from the beach in vibrant Brighton, this home exudes coastal charm with its white-washed walls, original fireplace, and a lovely private garden. Whether you're looking for a weekend getaway or a permanent vacation, this cottage offers a cozy and idyllic setting to enjoy the fresh sea air and stunning sunsets.",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "sqft": 900,
+        "amenities": [
+            "Sea View",
+            "Fireplace",
+            "Garden"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Modern Desert Home",
+        "price": "₹7,80,00,000",
+        "location": "Joshua Tree, CA",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80",
+        "description": "Experience the magic of the desert in this striking Modern Desert Home. Designed to harmonize with the rugged landscape of Joshua Tree, this architectural gem features raw concrete walls, expansive windows, and a seamless flow between indoor and outdoor spaces. By day, relax by the pool surrounded by cacti; by night, enjoy unparalleled stargazing from your private patio. A truly unique retreat for the soul.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 2100,
+        "amenities": [
+            "Pool",
+            "Desert View",
+            "Solar Power"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Scandinavian Studio",
+        "price": "₹1,50,000/mo",
+        "location": "Stockholm, Sweden",
+        "image": "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?auto=format&fit=crop&w=800&q=80",
+        "description": "Embrace the art of Hygge in this bright and airy Scandinavian Studio. Located in the trendy district of Södermalm, this apartment features a minimalist design with warm wood accents, functional furniture, and plenty of natural light. The private balcony offers a perfect spot for your morning coffee. With excellent public transport links nearby, the best of Stockholm is right at your doorstep.",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "sqft": 550,
+        "amenities": [
+            "Balcony",
+            "Central Heating",
+            "Storage"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Tropical Villa",
+        "price": "₹20,00,00,000",
+        "location": "Bali, Indonesia",
+        "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=800&q=80",
+        "description": "Indulge in paradise with this luxurious Tropical Villa in Bali. Surrounded by lush rainforest and rice paddies, this estate offers complete privacy and tranquility. The villa features traditional Balinese architecture with modern amenities, including a stunning private pool, open-air living areas, and separate staff quarters. It's the ultimate tropical sanctuary for those seeking luxury and relaxation.",
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "sqft": 5000,
+        "amenities": [
+            "Private Pool",
+            "Staff Quarters",
+            "Tropical Garden"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Industrial Chic Warehouse",
+        "price": "₹2,80,000/mo",
+        "location": "Brooklyn, NY",
+        "image": "https://images.unsplash.com/photo-1515263487990-61b07816b324?auto=format&fit=crop&w=800&q=80",
+        "description": "Live in a piece of history with this Industrial Chic Warehouse conversion in Brooklyn. Boasting soaring ceilings, original exposed brick walls, and massive factory windows, this space is a dream for creatives and artists. The open-concept layout allows for versatile living arrangements, while the freight elevator adds a touch of authentic industrial charm. Located in a vibrant neighborhood full of cafes and galleries.",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sqft": 1500,
+        "amenities": [
+            "High Ceilings",
+            "Exposed Brick",
+            "Freight Elevator"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Mountain Cabin",
+        "price": "₹5,00,00,000",
+        "location": "Aspen, CO",
+        "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=800&q=80",
+        "description": "Your perfect winter wonderland awaits in this cozy Mountain Cabin. Nestled among the pines in Aspen, this home offers true ski-in/ski-out access for the ultimate convenience. After a day on the slopes, warm up by the roaring stone fireplace or soak in the hot tub while watching the snow fall. Rustic charm meets modern comfort in this idyllic mountain retreat.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1800,
+        "amenities": [
+            "Fireplace",
+            "Hot Tub",
+            "Mountain View"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Penthouse Suite",
+        "price": "₹40,00,00,000",
+        "location": "Dubai, UAE",
+        "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+        "description": "Experience the height of luxury in this breathtaking Penthouse Suite in Dubai. Occupying the entire top floor, this residence offers 360-degree views of the glittering city skyline and the Arabian Gulf. Features include a private elevator, a dedicated concierge service, and even access to a private helipad. Every detail has been meticulously crafted to offer an unmatched standard of living.",
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "sqft": 4500,
+        "amenities": [
+            "Private Elevator",
+            "Concierge",
+            "Helipad Access"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Historic Townhouse",
+        "price": "₹22,00,00,000",
+        "location": "London, UK",
+        "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=800&q=80",
+        "description": "Step back in time with this beautifully restored Historic Townhouse in one of London's most prestigious neighborhoods. This Victorian gem retains its original period features, including ornate cornicing, sash windows, and high ceilings, while offering a fully modernized kitchen and bathrooms. The private rear garden is a rare quiet oasis in the city, perfect for entertaining or relaxing.",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "sqft": 2400,
+        "amenities": [
+            "Garden",
+            "Period Features",
+            "Wine Cellar"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Lakefront Retreat",
+        "price": "₹6,00,00,000",
+        "location": "Lake Tahoe, NV",
+        "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80",
+        "description": "Find your peace at this serene Lakefront Retreat on the shores of Lake Tahoe. With a private dock and expansive deck, this home is a paradise for boating, fishing, and water sports enthusiasts. The interior features large windows that frame the stunning lake views, bringing the beauty of the outdoors inside. A perfect year-round getaway for family and friends.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 2000,
+        "amenities": [
+            "Private Dock",
+            "Deck",
+            "Lake View"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Zen Garden House",
+        "price": "₹12,00,00,000",
+        "location": "Kyoto, Japan",
+        "image": "https://unsplash.com/photos/rDwIXsgb2LY/download",
+        "description": "Discover tranquility in this traditional Zen Garden House in Kyoto. The property centers around a meticulously maintained rock garden, visible from the tatami-matted rooms through sliding shoji screens. It features a dedicated tea ceremony room and a cedar wood bath for ultimate relaxation. This home offers a rare opportunity to experience the authentic and peaceful Japanese way of life.",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "sqft": 1200,
+        "amenities": [
+            "Zen Garden",
+            "Tatami Rooms",
+            "Tea Room"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Floating Home",
+        "price": "₹7,20,00,000",
+        "location": "Seattle, WA",
+        "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=80",
+        "description": "Live life on the water in this unique Floating Home on Seattle's Lake Union. This architectural marvel offers a lifestyle like no other, with the water right at your doorstep. Launch your kayak from your living room or enjoy a sunset BBQ on the rooftop deck with views of the Space Needle. The interior is modern and bright, making efficient use of every square foot.",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sqft": 1100,
+        "amenities": [
+            "Waterfront",
+            "Rooftop Deck",
+            "Kayak Launch"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Countryside Estate",
+        "price": "₹25,00,00,000",
+        "location": "Tuscany, Italy",
+        "image": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?auto=format&fit=crop&w=800&q=80",
+        "description": "Live the dream under the Tuscan sun in this sprawling Countryside Estate. Surrounded by rolling hills, private vineyards, and ancient olive groves, this property offers a taste of 'la dolce vita'. The main villa is steeped in history, while the separate guest house provides ample space for visitors. Spend your days by the pool or exploring the local wineries.",
+        "bedrooms": 6,
+        "bathrooms": 5,
+        "sqft": 6000,
+        "amenities": [
+            "Vineyard",
+            "Pool",
+            "Guest House"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Modern Treehouse",
+        "price": "₹32,000/night",
+        "location": "Costa Rica",
+        "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+        "description": "Elevate your vacation in this luxury Modern Treehouse, suspended in the canopy of the Costa Rican rainforest. Wake up to the call of howler monkeys and toucans right outside your window. The open-air design features an outdoor shower and a hammock deck for ultimate relaxation. It's an immersive nature experience with all the comforts of a high-end hotel.",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "sqft": 600,
+        "amenities": [
+            "Jungle View",
+            "Outdoor Shower",
+            "Hammock"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Ski Chalet",
+        "price": "₹16,50,00,000",
+        "location": "Chamonix, France",
+        "image": "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=800&q=80",
+        "description": "This classic Ski Chalet in Chamonix is the epitome of alpine luxury. Located at the foot of Mont Blanc, it offers breathtaking mountain views and easy access to some of the world's best skiing. The interior features exposed timber beams, a cozy sauna to relax muscles after a day on the slopes, and a large stone fireplace that serves as the heart of the home.",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "sqft": 3000,
+        "amenities": [
+            "Sauna",
+            "Ski Storage",
+            "Fireplace"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Mediterranean Villa",
+        "price": "₹36,00,00,000",
+        "location": "Santorini, Greece",
+        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=800&q=80",
+        "description": "Capture the essence of the Greek Isles in this iconic Mediterranean Villa. Perched on the cliffs of Santorini, this white-washed home with its signature blue domes offers world-famous sunset views over the caldera. The infinity pool seems to merge with the Aegean Sea, creating a mesmerizing effect. Inside, cool cave-style rooms provide a comfortable retreat from the midday sun.",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "sqft": 2200,
+        "amenities": [
+            "Infinity Pool",
+            "Terrace",
+            "Sea View"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Tech Smart Home",
+        "price": "₹14,50,00,000",
+        "location": "San Francisco, CA",
+        "image": "https://images.unsplash.com/photo-1558036117-15d82a90b9b1?auto=format&fit=crop&w=800&q=80",
+        "description": "Step into the future with this fully automated Tech Smart Home in Silicon Valley. Every aspect of this house, from the lighting and climate to the security and entertainment systems, can be controlled via voice or smartphone. It features a state-of-the-art EV charging station and energy-efficient systems. The design is sleek and modern, matching the cutting-edge technology within.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1600,
+        "amenities": [
+            "Smart Lighting",
+            "Security System",
+            "EV Charging"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Rustic Farmhouse",
+        "price": "₹4,50,00,000",
+        "location": "Nashville, TN",
+        "image": "https://images.unsplash.com/photo-1505577058444-a3dab90d4253?auto=format&fit=crop&w=800&q=80",
+        "description": "Embrace the country lifestyle in this authentic Rustic Farmhouse near Nashville. Set on acres of rolling land, the property includes a large historic barn perfect for events or hobbies. The house features a wrap-around porch for sipping sweet tea, hardwood floors, and a spacious country kitchen. It's the perfect blend of rural charm and proximity to Music City.",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": 2800,
+        "amenities": [
+            "Barn",
+            "Acreage",
+            "Porch"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Art Deco Apartment",
+        "price": "₹1,75,000/mo",
+        "location": "Miami, FL",
+        "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=800&q=80",
+        "description": "Live in style in this vibrant Art Deco Apartment in the heart of South Beach. Located in a preserved historic building, this unit features signature pastel colors, geometric patterns, and terrazzo floors. You are just steps away from the ocean and the famous Ocean Drive nightlife. The building includes a private pool and a lush courtyard for residents.",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "sqft": 950,
+        "amenities": [
+            "Ocean View",
+            "Walk-in Closet",
+            "Pool"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Gothic Mansion",
+        "price": "₹48,00,00,000",
+        "location": "Edinburgh, Scotland",
+        "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80",
+        "description": "Own a piece of dramatic history with this imposing Gothic Mansion in Edinburgh. With its pointed arches, ribbed vaults, and flying buttresses, the architecture is truly awe-inspiring. The property sits on sprawling grounds and features a grand ballroom, an extensive library, and even a historic wine cellar (formerly a dungeon). A home fit for royalty or those with a taste for the theatrical.",
+        "bedrooms": 8,
+        "bathrooms": 6,
+        "sqft": 8000,
+        "amenities": [
+            "Library",
+            "Ballroom",
+            "Dungeon (Wine Cellar)"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Modernist Bungalow",
+        "price": "₹6,80,00,000",
+        "location": "Austin, TX",
+        "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80",
+        "description": "This renovated Modernist Bungalow in Austin captures the cool, laid-back vibe of the city. Featuring mid-century modern design elements, an open-plan layout, and a seamless connection to the outdoors, it's perfect for entertaining. The carport adds convenience, while the private patio offers a shaded retreat from the Texas sun. Located in a quirky, walkable neighborhood.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1800,
+        "amenities": [
+            "Patio",
+            "Open Plan",
+            "Carport"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Sky High Condo",
+        "price": "₹3,20,000/mo",
+        "location": "Toronto, Canada",
+        "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80",
+        "description": "Rise above it all in this Sky High Condo on the 50th floor of a premier Toronto tower. The floor-to-ceiling windows offer dizzying views of the CN Tower and Lake Ontario. Residents enjoy access to top-tier amenities including a swimming pool, a fully equipped gym, and 24-hour concierge service. The location is unbeatable, right in the center of the financial and entertainment districts.",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sqft": 1000,
+        "amenities": [
+            "Gym",
+            "Pool",
+            "Concierge"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Colonial Estate",
+        "price": "₹11,00,00,000",
+        "location": "Charleston, SC",
+        "image": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?auto=format&fit=crop&w=800&q=80",
+        "description": "Experience southern hospitality in this grand Colonial Estate in Charleston. The home features iconic double porches, perfect for catching a breeze on a warm afternoon. Inside, you'll find formal living and dining rooms, heart pine floors, and exquisite moldings. The manicured gardens are filled with azaleas and magnolias, completing the picture of southern elegance.",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "sqft": 4000,
+        "amenities": [
+            "Garden",
+            "Porch",
+            "Fireplace"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Desert Dome",
+        "price": "₹24,000/night",
+        "location": "Sedona, AZ",
+        "image": "https://images.unsplash.com/photo-1535958636474-b021ee887b13?auto=format&fit=crop&w=800&q=80",
+        "description": "Reconnect with the universe in this unique Desert Dome in Sedona. The geodesic structure is designed to amplify the spiritual energy of the surrounding red rocks. It features a dedicated meditation area and a skylight for stargazing from the comfort of your bed. Hiking trails start right at your doorstep, inviting you to explore the stunning landscape.",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "sqft": 500,
+        "amenities": [
+            "Stargazing",
+            "Hiking Trails",
+            "Meditation Area"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Canal House",
+        "price": "₹16,80,00,000",
+        "location": "Amsterdam, Netherlands",
+        "image": "https://unsplash.com/photos/13hBuWbJZjw/download",
+        "description": "Live in a postcard with this quintessential Canal House in Amsterdam. Dating back to the 17th century, this narrow home features original wooden beams, steep staircases, and charming views of the canal boats drifting by. The roof terrace offers a private outdoor space in the city center, while the secure bike storage makes it easy to live like a local.",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1600,
+        "amenities": [
+            "Canal View",
+            "Roof Terrace",
+            "Bike Storage"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Beachfront Villa",
+        "price": "₹30,00,00,000",
+        "location": "Phuket, Thailand",
+        "image": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=800&q=80",
+        "description": "Step directly onto the white sands from this spectacular Beachfront Villa in Phuket. The modern design emphasizes indoor-outdoor living, with glass walls that slide away to connect the living room to the infinity pool deck. A chef's kitchen and spacious dining area make it perfect for entertaining, while the sound of the ocean provides a constant, soothing soundtrack.",
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "sqft": 3500,
+        "amenities": [
+            "Private Beach",
+            "Infinity Pool",
+            "Chef's Kitchen"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Log Cabin",
+        "price": "₹3,60,00,000",
+        "location": "Banff, Canada",
+        "image": "https://images.unsplash.com/photo-1542718610-a1d656d1884c?auto=format&fit=crop&w=800&q=80",
+        "description": "Get back to nature in this authentic Log Cabin in the heart of Banff National Park. Constructed from local timber, the cabin fits perfectly into its forest surroundings. A wood-burning stove keeps the interior toasty warm, while the large deck is the perfect spot to watch for wildlife. It's a rustic and romantic hideaway for those who love the great outdoors.",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "sqft": 1000,
+        "amenities": [
+            "Wood Stove",
+            "Forest View",
+            "Deck"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Urban Micro-Apartment",
+        "price": "₹1,20,000/mo",
+        "location": "Hong Kong",
+        "image": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?auto=format&fit=crop&w=800&q=80",
+        "description": "Experience the efficiency of city living in this cleverly designed Urban Micro-Apartment in Hong Kong. Every inch of space is utilized with smart storage solutions and multi-functional furniture. Located in a high-rise right in the center of the action, you have incredible city views and unbeatable convenience to shops, restaurants, and transit.",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "sqft": 300,
+        "amenities": [
+            "Smart Storage",
+            "City View",
+            "Convenience"
+        ]
+    }
+]
